@@ -1,4 +1,4 @@
-import fotosaya from "../rizky.JPG"
+import fotosaya from "../rizky.jpg"
 
 function Profile() {
     return (
