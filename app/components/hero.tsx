@@ -1,14 +1,15 @@
-import fotosaya from "../app/rizky.jpg"
+const fotosaya = require("../rizky.jpg");
 
 function Profile() {
-    return (
-      <img
-        src={fotosaya.src}
-        alt="rizky"
-        className="fotoku"
-      />
-    );
-  }
+  return (
+    <img
+      src={fotosaya}
+      alt="rizky"
+      className="fotoku"
+    />
+  );
+}
+
 
 export default function Hero(){
     return(
