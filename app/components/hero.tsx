@@ -1,6 +1,6 @@
-import fotosaya from "../rizky.jpg"
+//import fotosaya from "../rizky.jpg"
 
-function Profile() {
+//function Profile() {
     return (
       <img
         src={fotosaya.src}
